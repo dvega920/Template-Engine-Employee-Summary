@@ -1,6 +1,6 @@
 /*** NOT COMPLETE***
 Enough to prompt user for questions but unable to complete. Sorry!
-Will continue to work on it. 
+Will continue to work on it. With move, time just wasn't on my side this week,
 */
 
 const inquirer = require('inquirer');
