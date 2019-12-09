@@ -1,6 +1,6 @@
-/*** NON-WORKING ***
-Just enough to copy and paste from previous assignment and begin refining. 
-Haven't been able to test. I'm sorry. 
+/*** NOT COMPLETE***
+Enough to prompt user for questions but unable to complete. Sorry!
+Will continue to work on it. 
 */
 
 const inquirer = require('inquirer');
@@ -36,7 +36,7 @@ function promptUser() {
 promptUser()
     .then(function (userAns) {
         data = userAns;
-        console.log(userAns);
+        // console.log(userAns);
         // let api = `https://api.github.com/users/${data.username}`;
         // return Employee;
     })
